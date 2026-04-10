@@ -159,8 +159,7 @@ CIE202-project-final-master/
 ### Step 1: Clone or Download
 ```bash
 # Clone the repository
-git clone https://github.com/nadamohamed1230/CIE202-project-final
-cd CIE202-project-final-master
+gh repo clone nadamohamed1230/brick-breaker-oop-cpp
 ```
 
 ### Step 2: Open Project in Visual Studio
